@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955255120614",
+    "project_id": "doctors-crud",
+    "storage_bucket": "doctors-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955255120614:android:94103dfe7c526fcfa5d127",
+        "android_client_info": {
+          "package_name": "com.example.home_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955255120614-t1ii6rh2qpcd1qshs4iji1vupq1ds3sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtygQdXrq9Sg0IU2w16Shk7rCv-kL9pqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955255120614-t1ii6rh2qpcd1qshs4iji1vupq1ds3sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
